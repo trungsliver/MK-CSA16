@@ -1,0 +1,50 @@
+1. Chuẩn bị
+    - Liệt kê >= 3 lĩnh vực hoặc nguồn dữ liệu mà bạn quan tâm
+        Gợi ý: thiên tai, môi trường, thói quen, an ninh mạng, giáo dục, đồ ăn, sức khỏe, xu hướng, bán hàng,...
+    - Tìm nguồn dữ liệu: kaggle, data, worldbank, open data, github,...
+    - Dựa vào chủ đề và dữ liệu đã chọn, đưa ra các câu hỏi thống kê để nghiên cứu và trả lời (có thể sử dụng các công cụ hỗ trợ để lên ý tưởng: chat GPT, Gemini, CoPilot)
+
+2. Thu thập dữ liệu
+    - Dựa vào các câu hỏi và dữ liệu đã tìm được, phân loại các câu hỏi định lượng và định tính (yêu cầu có đủ cả 2 loại câu hỏi)
+    - Thu thập dữ liệu để trả lời câu hỏi
+        + Các nguồn đã giới thiệu bên trên: kaggle, data, worldbank, open data, github,...
+        + Tra cứu online và tổng hợp thành dữ liệu
+        + Khảo sát: điền form, hỏi người thân, bạn bè, MXH,..
+    - Lên kế hoạch phân tích dữ liệu
+        + Sử dụng cột/hàng nào để trả lời câu hỏi nào
+        + Sử dụng phép tính/câu lệnh nào để thực hiên
+
+3. Làm sạch dữ liệu
+    - Drop các cột/hàng không cần thiết
+    - Kiểu tra kiểu dữ liệu của từng cột, thay đổi nếu cần
+    - Drop các hàng bị trùng lặp
+    - Kiểm tra xem dữ liệu có bị khuyết không
+    - Nếu bị khuyết, chọn cách thay thế phù hợp:
+        + Drop hàng/cột
+        + Thay = 0
+        + Thay thế bằng giá trị trung bình
+        + Thay = giá trị trước/ sau nó
+        + Giữ nguyên
+
+4. Thực hiện trả lời các câu hỏi và minh họa bằng các biểu đồ liên quan
+    - Sử dụng các công cụ hỗ trợ: Matplotlib, Seaborn, Plotly,...
+    - Chọn biểu đồ phù hợp với câu hỏi
+    - Xem lại các bài đã học, tham khảo trên internet
+
+5. Xây dựng mô hình tuyến tính
+    - Xác định các biến độc lập và phụ thuộc
+    - Vẽ biểu đò nhiệt (heatmap) để dự đoán mối quan hệ giữa các biến
+    - Áp dụng mô hình LinearRegression
+    - Vẽ đường hồi quy tuyến tính
+    - Đánh giá hiệu quả mô hình: R2, MAE, RMSE, MSE,...
+
+6. Xây dựng câu chuyện và trình bày
+    - Nêu lý do, mục đích lựa chọn đề tài
+    - Trình bày kết quả và ý nghĩa của các câu hỏi
+    - Trình bày và các phương thức trình bày
+        + Infographics
+        + Dashboard (canva, powerpoint, photoshop)
+        + Ứng dụng web (gợi ý streamlit)
+        + Ứng desktop
+    - Đánh giá hình thức và cách trình bày đã rõ ràng chưa
+    - Đánh giá được độ khách quan của dữ liệu
