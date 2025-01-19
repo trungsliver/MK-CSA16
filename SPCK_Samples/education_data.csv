@@ -1,0 +1,101 @@
+Student_ID,Name,Age,Gender,Grade,Hours_Studied_Per_Week,Parental_Education_Level,School_Type,Extracurricular_Participation,SAT_Score
+1,Student_1,18,Male,3.0,10.0,High School,Public,True,1000
+2,Student_2,19,Female,3.5,12.5,Bachelor,Private,False,1030
+3,Student_3,20,Male,4.0,15.0,Master,Private,False,1060
+4,Student_4,21,Female,3.0,17.5,High School,Private,True,1090
+5,Student_5,22,Male,3.5,20.0,Bachelor,Public,False,1120
+6,Student_6,18,Female,4.0,22.5,Master,Private,False,1100
+7,Student_7,19,Male,3.0,25.0,High School,Private,True,1130
+8,Student_8,20,Female,3.5,10.0,Bachelor,Private,False,1160
+9,Student_9,21,Male,4.0,12.5,Master,Public,False,1190
+10,Student_10,22,Female,3.0,15.0,High School,Private,True,1220
+11,Student_11,18,Male,3.5,17.5,Bachelor,Private,False,1000
+12,Student_12,19,Female,4.0,20.0,Master,Private,False,1030
+13,Student_13,20,Male,3.0,22.5,High School,Public,True,1060
+14,Student_14,21,Female,3.5,25.0,Bachelor,Private,False,1090
+15,Student_15,22,Male,4.0,10.0,Master,Private,False,1120
+16,Student_16,18,Female,3.0,12.5,High School,Private,True,1100
+17,Student_17,19,Male,3.5,15.0,Bachelor,Public,False,1130
+18,Student_18,20,Female,4.0,17.5,Master,Private,False,1160
+19,Student_19,21,Male,3.0,20.0,High School,Private,True,1190
+20,Student_20,22,Female,3.5,22.5,Bachelor,Private,False,1220
+21,Student_21,18,Male,4.0,25.0,Master,Public,False,1000
+22,Student_22,19,Female,3.0,10.0,High School,Private,True,1030
+23,Student_23,20,Male,3.5,12.5,Bachelor,Private,False,1060
+24,Student_24,21,Female,4.0,15.0,Master,Private,False,1090
+25,Student_25,22,Male,3.0,17.5,High School,Public,True,1120
+26,Student_26,18,Female,3.5,20.0,Bachelor,Private,False,1100
+27,Student_27,19,Male,4.0,22.5,Master,Private,False,1130
+28,Student_28,20,Female,3.0,25.0,High School,Private,True,1160
+29,Student_29,21,Male,3.5,10.0,Bachelor,Public,False,1190
+30,Student_30,22,Female,4.0,12.5,Master,Private,False,1220
+31,Student_31,18,Male,3.0,15.0,High School,Private,True,1000
+32,Student_32,19,Female,3.5,17.5,Bachelor,Private,False,1030
+33,Student_33,20,Male,4.0,20.0,Master,Public,False,1060
+34,Student_34,21,Female,3.0,22.5,High School,Private,True,1090
+35,Student_35,22,Male,3.5,25.0,Bachelor,Private,False,1120
+36,Student_36,18,Female,4.0,10.0,Master,Private,False,1100
+37,Student_37,19,Male,3.0,12.5,High School,Public,True,1130
+38,Student_38,20,Female,3.5,15.0,Bachelor,Private,False,1160
+39,Student_39,21,Male,4.0,17.5,Master,Private,False,1190
+40,Student_40,22,Female,3.0,20.0,High School,Private,True,1220
+41,Student_41,18,Male,3.5,22.5,Bachelor,Public,False,1000
+42,Student_42,19,Female,4.0,25.0,Master,Private,False,1030
+43,Student_43,20,Male,3.0,10.0,High School,Private,True,1060
+44,Student_44,21,Female,3.5,12.5,Bachelor,Private,False,1090
+45,Student_45,22,Male,4.0,15.0,Master,Public,False,1120
+46,Student_46,18,Female,3.0,17.5,High School,Private,True,1100
+47,Student_47,19,Male,3.5,20.0,Bachelor,Private,False,1130
+48,Student_48,20,Female,4.0,22.5,Master,Private,False,1160
+49,Student_49,21,Male,3.0,25.0,High School,Public,True,1190
+50,Student_50,22,Female,3.5,10.0,Bachelor,Private,False,1220
+51,Student_51,18,Male,4.0,12.5,Master,Private,False,1000
+52,Student_52,19,Female,3.0,15.0,High School,Private,True,1030
+53,Student_53,20,Male,3.5,17.5,Bachelor,Public,False,1060
+54,Student_54,21,Female,4.0,20.0,Master,Private,False,1090
+55,Student_55,22,Male,3.0,22.5,High School,Private,True,1120
+56,Student_56,18,Female,3.5,25.0,Bachelor,Private,False,1100
+57,Student_57,19,Male,4.0,10.0,Master,Public,False,1130
+58,Student_58,20,Female,3.0,12.5,High School,Private,True,1160
+59,Student_59,21,Male,3.5,15.0,Bachelor,Private,False,1190
+60,Student_60,22,Female,4.0,17.5,Master,Private,False,1220
+61,Student_61,18,Male,3.0,20.0,High School,Public,True,1000
+62,Student_62,19,Female,3.5,22.5,Bachelor,Private,False,1030
+63,Student_63,20,Male,4.0,25.0,Master,Private,False,1060
+64,Student_64,21,Female,3.0,10.0,High School,Private,True,1090
+65,Student_65,22,Male,3.5,12.5,Bachelor,Public,False,1120
+66,Student_66,18,Female,4.0,15.0,Master,Private,False,1100
+67,Student_67,19,Male,3.0,17.5,High School,Private,True,1130
+68,Student_68,20,Female,3.5,20.0,Bachelor,Private,False,1160
+69,Student_69,21,Male,4.0,22.5,Master,Public,False,1190
+70,Student_70,22,Female,3.0,25.0,High School,Private,True,1220
+71,Student_71,18,Male,3.5,10.0,Bachelor,Private,False,1000
+72,Student_72,19,Female,4.0,12.5,Master,Private,False,1030
+73,Student_73,20,Male,3.0,15.0,High School,Public,True,1060
+74,Student_74,21,Female,3.5,17.5,Bachelor,Private,False,1090
+75,Student_75,22,Male,4.0,20.0,Master,Private,False,1120
+76,Student_76,18,Female,3.0,22.5,High School,Private,True,1100
+77,Student_77,19,Male,3.5,25.0,Bachelor,Public,False,1130
+78,Student_78,20,Female,4.0,10.0,Master,Private,False,1160
+79,Student_79,21,Male,3.0,12.5,High School,Private,True,1190
+80,Student_80,22,Female,3.5,15.0,Bachelor,Private,False,1220
+81,Student_81,18,Male,4.0,17.5,Master,Public,False,1000
+82,Student_82,19,Female,3.0,20.0,High School,Private,True,1030
+83,Student_83,20,Male,3.5,22.5,Bachelor,Private,False,1060
+84,Student_84,21,Female,4.0,25.0,Master,Private,False,1090
+85,Student_85,22,Male,3.0,10.0,High School,Public,True,1120
+86,Student_86,18,Female,3.5,12.5,Bachelor,Private,False,1100
+87,Student_87,19,Male,4.0,15.0,Master,Private,False,1130
+88,Student_88,20,Female,3.0,17.5,High School,Private,True,1160
+89,Student_89,21,Male,3.5,20.0,Bachelor,Public,False,1190
+90,Student_90,22,Female,4.0,22.5,Master,Private,False,1220
+91,Student_91,18,Male,3.0,25.0,High School,Private,True,1000
+92,Student_92,19,Female,3.5,10.0,Bachelor,Private,False,1030
+93,Student_93,20,Male,4.0,12.5,Master,Public,False,1060
+94,Student_94,21,Female,3.0,15.0,High School,Private,True,1090
+95,Student_95,22,Male,3.5,17.5,Bachelor,Private,False,1120
+96,Student_96,18,Female,4.0,20.0,Master,Private,False,1100
+97,Student_97,19,Male,3.0,22.5,High School,Public,True,1130
+98,Student_98,20,Female,3.5,25.0,Bachelor,Private,False,1160
+99,Student_99,21,Male,4.0,10.0,Master,Private,False,1190
+100,Student_100,22,Female,3.0,12.5,High School,Private,True,1220

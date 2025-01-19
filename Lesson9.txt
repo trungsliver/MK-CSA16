@@ -1,0 +1,13 @@
+SUBMIT
+# Gia Bình: https://colab.research.google.com/drive/1vCiv2OXcn0A0Cvi4llsuk_vPp_BQ2syl?usp=sharing
+# Quang Huy: https://colab.research.google.com/drive/1tuqrYv8lnCIzEXkaVprpScfRE3uAaADX?usp=sharing
+# Ngọc Nghi: https://colab.research.google.com/drive/1ZQcjRTJKnY6csNJUndzU2qDeK3cFM6qG?usp=sharing
+# Việt Anh: https://colab.research.google.com/drive/1UAvZxZeu8NCGsP-RxNAEebVHp_L1QTOs?usp=sharing
+# Thành Đạt: https://colab.research.google.com/drive/1fEb_1L1j-58bnybo_SzmJsL4y5QSLbO1?usp=sharing
+
+SPCK
+# Gia Bình: 
+# Quang Huy:
+# Ngọc Nghi: https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysis/notebook
+# Việt Anh: 
+# Thành Đạt: https://www.kaggle.com/datasets/hopesb/student-depression-dataset/data
